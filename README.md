@@ -18,18 +18,21 @@ The urls of the datasets are stored in the following txt files.
 
 * CFM400: 'training_part_CFM400.txt' and 'test_part_CFM400.txt' 
 
+Convenient download.
+
+```
+python video_download_script.py --url_list txt_file --saving_path ./saving_dir
+```
 
 You may install you-get before the download starts. 
 
-The video and the audio track can be separated using FFmpeg, and the BGMs and the voice-overs can be separated by the source separator *Spleeter* [[link](https://github.com/deezer/spleeter)].
-
-
-
+The video and the audio track can be separated using FFmpeg, and the BGMs and the voice-overs can be separated by the source separator *Spleeter* [[link](https://github.com/deezer/spleeter)]. 
+```
+python separating_script --video_path ./video_dir --temporary_audio_saving_path ./temporary_audio_dir --spleeter_res_path  ./separation_dir
+```
 
 ## 3. The implementation of the video-music retrieval algorithm MRCMV
 
 Codes are coming soon..
-
-
 
 
