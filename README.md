@@ -1,6 +1,6 @@
 # HoK400 and CFM400
 
-#### The Datasets Consisting of *PROFESSIONALLY Edited* Short Videos Accompanied with Background Music and Voice-Overs. 
+#### The Datasets Consisting of *PROFESSIONALLY Edited* Short Videos Accompanied with Background Music and Voice-Overs collected from public video platforms. 
 
 ## 1. Introduction
 
