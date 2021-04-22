@@ -31,7 +31,18 @@ FFmpeg can separate the video and the audio tracks, and the source separator *Sp
 python separating_script --video_path ./video_dir --temporary_audio_saving_path ./temporary_audio_dir --spleeter_res_path  ./separation_dir
 ```
 
-## 3. The implementation of the video-music retrieval algorithm MRCMV
+## 3. Citation
+
+```
+{
+  author    = {Tingtian Li, Zixun Sun, Haoruo Zhang, Jin Li, Ziming Wu, Hui Zhan, Yipeng Yu, Hengcan Shi},
+  title     = {Deep Music Retrieval for Fine-Grained Videos by Exploiting Cross-Modal-Encoded Voice-Overs},
+  @           {arXiv:2104.10557},
+  year      = {2021},
+}
+```
+
+## 4. The implementation of the video-music retrieval algorithm MRCMV
 
 Codes are coming soon..
 
